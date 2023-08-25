@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/workout-bot-webapp/static/css/main.073c9b0a.css",
+    "main.js": "/workout-bot-webapp/static/js/main.3fe4224f.js",
+    "static/js/787.a9db341f.chunk.js": "/workout-bot-webapp/static/js/787.a9db341f.chunk.js",
+    "static/media/logo.svg": "/workout-bot-webapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/workout-bot-webapp/index.html",
+    "main.073c9b0a.css.map": "/workout-bot-webapp/static/css/main.073c9b0a.css.map",
+    "main.3fe4224f.js.map": "/workout-bot-webapp/static/js/main.3fe4224f.js.map",
+    "787.a9db341f.chunk.js.map": "/workout-bot-webapp/static/js/787.a9db341f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3fe4224f.js"
+  ]
+}
